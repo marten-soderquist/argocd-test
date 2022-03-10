@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: testapp-cm
+data:
+  apa: banan
+  chimpans: dromedar
